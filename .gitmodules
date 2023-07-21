@@ -1,0 +1,3 @@
+[submodule "qbr"]
+	path = qbr
+	url = git@github.com:JerryGuo-Formlabs/qbr.git
