@@ -2,3 +2,6 @@
 	path = qbr
 	url = git@github.com:JerryGuo-Formlabs/qbr.git
 	branch = master
+[submodule "magiccube"]
+	path = magiccube
+	url = https://github.com/Nikola-Petrov/magiccube.git
